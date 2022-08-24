@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: Conten Blog
 ---
 
 This is an about page about this awesome site.
